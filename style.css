@@ -88,7 +88,7 @@ span{
 .paragraph{
     margin-top: 20px;
     color:hsl(0, 0%, 50%) ;
-    font-size: 16px;
+    font-size: 1.0rem;
     font-family: 'Figtree', sans-serif;
     font-weight: 200;
 }
